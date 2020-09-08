@@ -1,6 +1,6 @@
-# Font-Comparer
+# Font See Fit
 ## Description and Features
-Font-Comparer makes comparing fonts easy. By default, the top 30 trending fonts on Google Fonts will be loaded. Select the font that you want to compare, then choose the box that you want to assign the font (left or right). The text that you type at the bottom center of the screen will fill the boxes. If you click on the "Text to Compare" title, it will cycle through some filler text for you. The "Clear Fonts" button empties the ".temp_fonts" folder, which is where downloaded fonts are stored. If you want to compare fonts other than the top 30 trending, you can specify fonts in the .google_webfonts.json file manually.
+Font See Fit makes comparing fonts easy. By default, the top 30 trending fonts on Google Fonts will be loaded. Select the font that you want to compare, then choose the box that you want to assign the font (left or right). The text that you type at the bottom center of the screen will fill the boxes. If you click on the "Text to Compare" title, it will cycle through some filler text for you. The "Clear Fonts" button empties the ".temp_fonts" folder, which is where downloaded fonts are stored. If you want to compare fonts other than the top 30 trending, you can specify fonts in the .google_webfonts.json file manually.
 
 ## Instructions
 Just paste your Google Fonts A.P.I. key into a file in the same folder named "api_key", and you should be good to go.
